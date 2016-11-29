@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">BurnNews</string>
+    <string name="cao" translatable="false">6的飞起</string>
+    <string name="burnnews" translatable="false">BurnNews</string>
+    <string name="ljdl" translatable="false">立即登录</string>
+    <string name="wdsc" translatable="false">我的收藏</string>
+    <string name="sz" translatable="false">设置</string>
+    <string name="gywm" translatable="false">关于我们</string>
+    <string name="wdynr" translatable="false">无订阅内容</string>
+    <string name="zxyh" translatable="false">注销用户</string>
+</resources>
